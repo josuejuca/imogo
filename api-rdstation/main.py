@@ -12,7 +12,7 @@ payload = {
         "email": "etc@josuejuca.com", # E-mail do LEAD
         "name": "Josué Juca", # Nome do LEAD
         "state": "DF", # Estado 
-        "city": "Brasilia", # Cidade 
+        "city": "Ceilândia - Ceilândia Sul", # Cidade 
         "country": "Brasil", # Pais 
         "personal_phone": "+55 61 9 8463-4855", # Telefone mask: +55 61 9 0000-0000
         "tags": ["CORRETOR", "prospecção"], # Altere o campo de acordo com o tipo de LEAD usando o ( CORRETOR / LEAD )
