@@ -1,0 +1,218 @@
+Águas Claras - ADE
+Águas Claras - Areal
+Águas Claras - Arniqueiras
+Águas Claras - Norte
+Águas Claras - Sul
+Brasília - Asa Norte
+Brasília - Asa Sul
+Brasília - Granja do Torto
+Brasília - Jardim Botânico
+Brasília - Jardins Mangueiral
+Brasília - Lago Norte
+Brasília - Lago Sul
+Brasília - Noroeste
+Brasília - Octogonal
+Brasília - Park Sul
+Brasília - Park Way
+Brasília - Setor de Industrias
+Brasília - Setor Industrial
+Brasília - SIG
+Brasília - Sudoeste
+Brasília - Taquari
+Brasília - Vila da Telebrasília
+Brasília - Vila Planalto
+Brasília - Zona Civico - Administrativa
+Brasília - Zona Civico Administrativa
+Brasília - Zona Rural
+Brazlândia - Brazlândia
+Brazlândia - Colônia Agrícola Alexandre Gusmão
+Brazlândia - Incra 8
+Brazlândia - Setor Norte
+Brazlândia - Setor Sul
+Brazlândia - Setor Tradicional
+Brazlândia - Veredas
+Brazlândia - Vila São José
+Brazlândia - Zona Rural
+Candangolândia - Candangolândia
+Ceilândia - ADE
+Ceilândia - Ceilândia Centro
+Ceilândia - Ceilândia Norte
+Ceilândia - Ceilândia Sul
+Ceilândia - Condomínio Prive Lucena Roriz
+Ceilândia - Setor de Materiais de Construção
+Ceilândia - Setor Habitacional Por do Sol
+Ceilândia - Setor Habitacional Sol Nascente
+Ceilândia - Setor Industrial
+Ceilândia - Zona Rural
+Cruzeiro - Novo
+Cruzeiro - Velho
+Gama - Área Alfa
+Gama - Cidade Nova
+Gama - Engenho das Lajes
+Gama - Gama
+Gama - Ponte Alta
+Gama - Setor Central
+Gama - Setor Industrial
+Gama - Setor Leste
+Gama - Setor Norte
+Gama - Setor Oeste
+Gama - Setor Sul
+Gama - Zona Rural
+Guara - Guara I
+Guara - Guara II
+Guara - Quadras Econômicas Lucio Costa
+Guara - Setor Industrial
+Guara - Zona Industrial
+Guara - Zona Rural
+Núcleo Bandeirante - ADE
+Núcleo Bandeirante - Metropolitana
+Núcleo Bandeirante - Núcleo Bandeirante
+Núcleo Bandeirante - Núcleo Rural Vargem Bonita
+Núcleo Bandeirante - Setor de Industrias Bernardo Sayão
+Núcleo Bandeirante - Setor de Postos e Motéis Sul
+Núcleo Bandeirante - Setor Placa da Mercedes
+Núcleo Bandeirante - Vila Cauhy
+Núcleo Bandeirante - Vila Metropolitana
+Paranoá - Del Lago
+Paranoá - Del Lago I
+Paranoá - Del Lago II
+Paranoá - Fazendinha
+Paranoá - Itapoa I
+Paranoá - Itapoa II
+Paranoá - Itapua
+Paranoá - Paranoá
+Paranoá - Zona Rural
+Planaltina - Arapoanga
+Planaltina - Centro
+Planaltina - Condomínio Guirra
+Planaltina - Condomínio Mestre Darmas
+Planaltina - Condomínio Parque Monaco II
+Planaltina - Estancia Mestre Darmas
+Planaltina - Estancia Mestre D Armas
+Planaltina - Estancia Mestre Darmas I
+Planaltina - Estancia Mestre Darmas III
+Planaltina - Estancia Mestre Darmas IV
+Planaltina - Estancia Planaltina
+Planaltina - Fazenda Mestre Darmas Etapa I
+Planaltina - Fazenda Mestre Darmas Etapa II
+Planaltina - Fazenda Mestre Darmas Etapa III
+Planaltina - Jardim Roriz
+Planaltina - Planaltina
+Planaltina - Quintas do Amanhecer II
+Planaltina - Residencial Bica do Der Gleba B
+Planaltina - Residencial Cachoeira
+Planaltina - Residencial Nova Esperança
+Planaltina - Residencial Nova Planaltina
+Planaltina - Residencial São Francisco I
+Planaltina - Residencial São Francisco II
+Planaltina - Setor de Hotéis e Diversões
+Planaltina - Setor de Mansões Mestre Darmas
+Planaltina - Setor Hospitalar
+Planaltina - Setor Mansões Itiquira
+Planaltina - Setor Norte
+Planaltina - Setor Residencial Leste
+Planaltina - Setor Residencial Mestre Darmas
+Planaltina - Setor Residencial Norte
+Planaltina - Setor Residencial Oeste
+Planaltina - Setor Sul
+Planaltina - Setor Tradicional
+Planaltina - Taquara
+Planaltina - Vale do Amanhecer
+Planaltina - Vale do Sol
+Planaltina - Vila Feliz
+Planaltina - Vila Nossa Senhora de Fatima
+Planaltina - Vila Vicentina
+Planaltina - Zona Rural
+Recanto das Emas - Recanto das Emas
+Recanto das Emas - Zona Rural
+Riacho Fundo - Riacho Fundo
+Riacho Fundo - Riacho Fundo II
+Riacho Fundo - Zona Rural
+Samambaia - Samambaia Norte
+Samambaia - Samambaia Sul
+Samambaia - Zona Rural
+Santa Maria - Área Alfa
+Santa Maria - Condomínio Chácaras Ana Maria
+Santa Maria - Condomínio Residencial Santa Maria
+Santa Maria - Mansões Abraão I
+Santa Maria - Núcleo Rural Alagados
+Santa Maria - Núcleo Rural Hortigranjeiro
+Santa Maria - Núcleo Rural Santa Maria
+Santa Maria - Pólo JK
+Santa Maria - Residencial Santos Dumont
+Santa Maria - Santa Maria
+Santa Maria - Setor Habitacional Meireles
+Santa Maria - Setor Habitacional Ribeirão
+Santa Maria - Setor Habitacional Tororó
+Santa Maria - Setor Meireles
+Santa Maria - Setor Total Ville
+Santa Maria - Zona de Dinamização
+Santa Maria - Zona Rural
+São Sebastião - Bela Vista
+São Sebastião - Bonsucesso
+São Sebastião - Centro
+São Sebastião - Crixa
+São Sebastião - João Candido
+São Sebastião - Morro Azul
+São Sebastião - Nova Betânia
+São Sebastião - Quinta dos Apes
+São Sebastião - Quinta dos Ipês
+São Sebastião - Residencial do Bosque
+São Sebastião - Residencial Itaipu
+São Sebastião - Residencial Morro da Cruz
+São Sebastião - Residencial Vitoria
+São Sebastião - São Bartolomeu
+São Sebastião - São Francisco
+São Sebastião - São Gabriel
+São Sebastião - Setor Residencial Oeste
+São Sebastião - Setor Tradicional
+São Sebastião - Vila do Boa
+São Sebastião - Vila Nova
+São Sebastião - Vila São José
+São Sebastião - Zona Rural
+Setor Industrial - SAAN
+Setor Industrial - SCIA
+Setor Industrial - SIA
+Setor Industrial - SIG
+Setor Industrial - SOF Norte
+Setor Industrial - SOF Sul
+Sobradinho - Alto da Boa Vista
+Sobradinho - Condomínio Comercial e Residencial Sobradinho
+Sobradinho - Condomínio Império dos Nobres
+Sobradinho - Condomínio Mansões Sobradinho
+Sobradinho - Condomínio Mirante da Serra
+Sobradinho - Condomínio RK
+Sobradinho - Condomínio Vale dos Pinheiros
+Sobradinho - Estancias Vila Rica
+Sobradinho - Grande Colorado
+Sobradinho - Nova Colina
+Sobradinho - Núcleo Rural Lago Oeste
+Sobradinho - Região dos Lagos
+Sobradinho - Serra Azul
+Sobradinho - Setor de Mansões de Sobradinho
+Sobradinho - Setor Econômico de Sobradinho
+Sobradinho - Setor Habitacional Contagem
+Sobradinho - Setor Habitacional Fercal
+Sobradinho - Setor Industrial
+Sobradinho - Setor Oeste
+Sobradinho - Sobradinho
+Sobradinho - Vale das Acacias
+Sobradinho - Vila Rabelo I
+Sobradinho - Zona Rural
+Taguatinga - Setor de Desenvolvimento Econômico
+Taguatinga - Setor Habitacional Vereda Grande
+Taguatinga - Setor Industrial
+Taguatinga - Taguatinga Centro
+Taguatinga - Taguatinga Norte
+Taguatinga - Taguatinga Sul
+Taguatinga - Vial São José
+Taguatinga - Vila São José
+Taguatinga - Zona Rural
+Varjão - Varjão
+Vicente Pires - Colônia Agrícola Samambaia
+Vicente Pires - Setor Central
+Vicente Pires - Setor Especial
+Vicente Pires - Setor Leste
+Vicente Pires - Setor Norte
+Vicente Pires - Setor Oeste
+Vicente Pires - Vicente Pires
