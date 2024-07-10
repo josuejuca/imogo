@@ -8,7 +8,7 @@ pip install fastapi uvicorn requests
 
 ### 2. Código da API com FastAPI
 
-Salve o código abaixo em um arquivo chamado `main.py`:
+Salve o código abaixo em um arquivo chamado `api.py`:
 
 ```python
 from fastapi import FastAPI, HTTPException
